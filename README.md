@@ -1,6 +1,6 @@
 # Litigium
 
-Case and matter management — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/litigium
 
